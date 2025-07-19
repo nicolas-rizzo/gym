@@ -1,0 +1,304 @@
+{
+    "Rutina Nico": {
+        "DIA 1": [
+            {
+                "ejercicio": "Cinta/Elíptico/Bici",
+                "series": "-",
+                "repeticiones": "10 minutos",
+                "peso": "-",
+                "descanso": "-"
+            },
+            {
+                "ejercicio": "Sentadilla",
+                "series": 4,
+                "repeticiones": 8,
+                "peso": "-",
+                "descanso": 60
+            },
+            {
+                "ejercicio": "Prensa",
+                "series": 4,
+                "repeticiones": 10,
+                "peso": "-",
+                "descanso": 50
+            },
+            {
+                "ejercicio": "Búlgaras",
+                "series": 3,
+                "repeticiones": 8,
+                "peso": "-",
+                "descanso": 45
+            },
+            {
+                "ejercicio": "Camilla Cuádriceps",
+                "series": 3,
+                "repeticiones": 10,
+                "peso": "-",
+                "descanso": 40
+            },
+            {
+                "ejercicio": "Press Militar con barra",
+                "series": 4,
+                "repeticiones": 10,
+                "peso": "-",
+                "descanso": 35
+            },
+            {
+                "ejercicio": "Vuelos Laterales drop set",
+                "series": 3,
+                "repeticiones": 10,
+                "peso": "-",
+                "descanso": 35
+            },
+            {
+                "ejercicio": "Posteriores en polea",
+                "series": 3,
+                "repeticiones": 10,
+                "peso": "-",
+                "descanso": 35
+            }
+        ],
+        "DIA 2": [
+            {
+                "ejercicio": "Cinta/Elíptico/Bici",
+                "series": "-",
+                "repeticiones": "10 minutos",
+                "peso": "-",
+                "descanso": "-"
+            },
+            {
+                "ejercicio": "Empuje de pecho con barra en banco plano",
+                "series": 4,
+                "repeticiones": 8,
+                "peso": "-",
+                "descanso": 60
+            },
+            {
+                "ejercicio": "Empuje de pecho con manc. en banco inclinado",
+                "series": 4,
+                "repeticiones": 10,
+                "peso": "-",
+                "descanso": 50
+            },
+            {
+                "ejercicio": "Cruce de poleas ascendente",
+                "series": 3,
+                "repeticiones": 12,
+                "peso": "-",
+                "descanso": 45
+            },
+            {
+                "ejercicio": "Empuje de pecho en máquina drop set",
+                "series": 3,
+                "repeticiones": 10,
+                "peso": "-",
+                "descanso": 45
+            },
+            {
+                "ejercicio": "Fondos de tríceps",
+                "series": "4 MIN",
+                "repeticiones": 10,
+                "peso": "-",
+                "descanso": 35
+            },
+            {
+                "ejercicio": "Press Francés",
+                "series": 4,
+                "repeticiones": 10,
+                "peso": "-",
+                "descanso": 35
+            },
+            {
+                "ejercicio": "Extensión tríceps en polea",
+                "series": 3,
+                "repeticiones": 10,
+                "peso": "-",
+                "descanso": 35
+            },
+            {
+                "ejercicio": "Antebrazo prono",
+                "series": 3,
+                "repeticiones": 12,
+                "peso": "-",
+                "descanso": 30
+            }
+        ],
+        "DIA 3": [
+            {
+                "ejercicio": "Cinta/Elíptico/Bici",
+                "series": "-",
+                "repeticiones": "10 minutos",
+                "peso": "-",
+                "descanso": "-"
+            },
+            {
+                "ejercicio": "Peso Muerto",
+                "series": 4,
+                "repeticiones": 8,
+                "peso": "-",
+                "descanso": 60
+            },
+            {
+                "ejercicio": "Hip Thrust",
+                "series": 4,
+                "repeticiones": 8,
+                "peso": "-",
+                "descanso": 60
+            },
+            {
+                "ejercicio": "Camilla Isquios drop set",
+                "series": 4,
+                "repeticiones": 10,
+                "peso": "-",
+                "descanso": 45
+            },
+            {
+                "ejercicio": "Gemelos Prensa o Barra",
+                "series": 4,
+                "repeticiones": "12/15",
+                "peso": "-",
+                "descanso": 45
+            },
+            {
+                "ejercicio": "Curl Bíceps con barra W",
+                "series": 4,
+                "repeticiones": 10,
+                "peso": "-",
+                "descanso": 35
+            },
+            {
+                "ejercicio": "Bíceps en banco inclinado",
+                "series": 3,
+                "repeticiones": 12,
+                "peso": "-",
+                "descanso": 35
+            },
+            {
+                "ejercicio": "Martillo",
+                "series": 3,
+                "repeticiones": 12,
+                "peso": "-",
+                "descanso": 35
+            },
+            {
+                "ejercicio": "Antebrazo Supino",
+                "series": 4,
+                "repeticiones": 12,
+                "peso": "-",
+                "descanso": 35
+            }
+        ],
+        "DIA 4": [
+            {
+                "ejercicio": "Cinta/Elíptico/Bici",
+                "series": "-",
+                "repeticiones": "-",
+                "peso": "-",
+                "descanso": "-"
+            },
+            {
+                "ejercicio": "Remo con barra",
+                "series": 4,
+                "repeticiones": 8,
+                "peso": "-",
+                "descanso": 60
+            },
+            {
+                "ejercicio": "Tirón dorsal toma prono",
+                "series": 4,
+                "repeticiones": 10,
+                "peso": "-",
+                "descanso": 60
+            },
+            {
+                "ejercicio": "Remo en polea baja máquina",
+                "series": 3,
+                "repeticiones": 10,
+                "peso": "-",
+                "descanso": 50
+            },
+            {
+                "ejercicio": "Remo a un brazo con mancuerna",
+                "series": 3,
+                "repeticiones": 10,
+                "peso": "-",
+                "descanso": 50
+            },
+            {
+                "ejercicio": "Press Militar con mancuernas",
+                "series": 3,
+                "repeticiones": 12,
+                "peso": "-",
+                "descanso": 35
+            },
+            {
+                "ejercicio": "Vuelos combinados con mancuernas",
+                "series": 3,
+                "repeticiones": 10,
+                "peso": "-",
+                "descanso": 35
+            },
+            {
+                "ejercicio": "Extensiones de tríceps",
+                "series": 3,
+                "repeticiones": 10,
+                "peso": "-",
+                "descanso": 35
+            },
+            {
+                "ejercicio": "Extensiones de tríceps trasnuca",
+                "series": 3,
+                "repeticiones": 10,
+                "peso": "-",
+                "descanso": 35
+            }
+        ],
+        "ABS": [
+            {
+                "ejercicio": "Abs Bisagra a una pierna",
+                "series": 3,
+                "repeticiones": 10
+            },
+            {
+                "ejercicio": "Abs Bisagra a dos piernas",
+                "series": 3,
+                "repeticiones": 15
+            },
+            {
+                "ejercicio": "Twist Ruso",
+                "series": 3,
+                "repeticiones": 20
+            },
+            {
+                "ejercicio": "Abs Largos",
+                "series": 3,
+                "repeticiones": 15
+            },
+            {
+                "ejercicio": "Abs Cortos",
+                "series": 3,
+                "repeticiones": 30
+            },
+            {
+                "ejercicio": "Abs en Banco Declinado",
+                "series": 3,
+                "repeticiones": 15
+            },
+            {
+                "ejercicio": "Plancha Prono",
+                "series": 3,
+                "repeticiones": 35
+            },
+            {
+                "ejercicio": "Plancha Prono dinámica",
+                "series": 3,
+                "repeticiones": 35
+            },
+            {
+                "ejercicio": "Plancha Lateral",
+                "series": 3,
+                "repeticiones": 20
+            }
+        ]
+    }
+}
